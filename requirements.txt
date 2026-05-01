@@ -13,3 +13,4 @@ sentence-transformers
 faiss-cpu
 
 
+PyPDF2
